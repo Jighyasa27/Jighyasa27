@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jighyasa Negi</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-
-<h3 align="center">Coding Mode On 🚀</h3>
 <p align="center">
   <img src="Girl coding gif.gif" alt="Girl Coding" width="400"/>
 </p>
