@@ -3,7 +3,7 @@
 
 <h3 align="center">Coding Mode On 🚀</h3>
 <p align="center">
-  <img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" alt="Girl Coding" width="400"/>
+  <img src="Girl coding gif.gif" alt="Girl Coding" width="400"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jighyasa27&label=Profile%20views&color=0e75b6&style=flat" alt="jighyasa27" /> </p>
